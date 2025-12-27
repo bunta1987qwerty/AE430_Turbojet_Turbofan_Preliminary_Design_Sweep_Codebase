@@ -1,0 +1,52 @@
+{
+  "base_config": "config_default.json",
+  "grid": {
+    "burner.Tt4_target": {
+      "linspace": [
+        1650.0,
+        1900.0,
+        6
+      ]
+    },
+    "burner_diffuser.pi_bd_factor": [
+      0.98,
+      1.0,
+      1.02
+    ],
+    "design.engine_type": [
+      "turbojet"
+    ],
+    "design.pi_c": {
+      "linspace": [
+        18.0,
+        32.0,
+        8
+      ]
+    },
+    "inlet.pi_d_factor": [
+      0.97,
+      1.0,
+      1.03
+    ],
+    "losses.eta_c": [
+      0.88,
+      0.9,
+      0.92
+    ],
+    "losses.eta_t_uncooled": [
+      0.88,
+      0.9,
+      0.92
+    ],
+    "spools.omega_comp": [
+      400.0,
+      500.0,
+      600.0
+    ],
+    "spools.omega_turb": [
+      400.0,
+      500.0,
+      600.0
+    ]
+  }
+}

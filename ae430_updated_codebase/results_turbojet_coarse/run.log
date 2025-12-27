@@ -1,0 +1,12 @@
+2025-12-26 22:12:13,564 | INFO    | Logging to /home/bunta/AE430_codes/ae430_updated_codebase/results_turbojet_coarse/run.log
+2025-12-26 22:12:13,564 | INFO    | Starting sweep runner.
+2025-12-26 22:12:13,564 | INFO    | sweep_path=/home/bunta/AE430_codes/ae430_updated_codebase/sweeps/turbojet_coarse.json
+2025-12-26 22:12:13,564 | INFO    | outdir=/home/bunta/AE430_codes/ae430_updated_codebase/results_turbojet_coarse
+2025-12-26 22:12:13,564 | INFO    | F_required=3.500e+05
+2025-12-26 22:12:13,565 | INFO    | base_cfg_path=/home/bunta/AE430_codes/ae430_updated_codebase/sweeps/config_default.json
+2025-12-26 22:12:13,566 | INFO    | Cleaned old rank outputs in /home/bunta/AE430_codes/ae430_updated_codebase/results_turbojet_coarse
+2025-12-26 22:12:13,566 | INFO    | TOTAL_CASES=192
+2025-12-26 22:12:13,695 | INFO    | workers finished: ok_total=0 crashed_total=192 elapsed=0.12s rate=1566.09 cases/s
+2025-12-26 22:12:13,695 | WARNING | No rank CSVs to merge (or all empty). Check rank_XXXX.error.txt.
+2025-12-26 22:12:13,695 | WARNING | No rank JSONLs to merge.
+2025-12-26 22:12:13,695 | INFO    | DONE

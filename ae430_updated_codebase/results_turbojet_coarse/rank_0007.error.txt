@@ -1,0 +1,300 @@
+case_id=35
+Traceback (most recent call last):
+  File "/home/bunta/AE430_codes/ae430_updated_codebase/ae430/run_sweep.py", line 245, in _worker_run_one
+    res, st, cons = evaluate_design(cfg, None)
+  File "ae430/engine.py", line 449, in evaluate_design
+    F0, r0, s0, c0 = eval_F(md0)
+  File "ae430/engine.py", line 444, in eval_F
+    res, st, cons = _cycle_given_mdot(cfg, mdot, logger)
+  File "ae430/engine.py", line 129, in _cycle_given_mdot
+    A_capture, _, _ = flow_area_from_mdot_total_M(mdot0, fs['Tt0'], fs['pt0'], M2, gamma_cold, cp_cold)
+ValueError: too many values to unpack
+
+case_id=36
+Traceback (most recent call last):
+  File "/home/bunta/AE430_codes/ae430_updated_codebase/ae430/run_sweep.py", line 245, in _worker_run_one
+    res, st, cons = evaluate_design(cfg, None)
+  File "ae430/engine.py", line 449, in evaluate_design
+    F0, r0, s0, c0 = eval_F(md0)
+  File "ae430/engine.py", line 444, in eval_F
+    res, st, cons = _cycle_given_mdot(cfg, mdot, logger)
+  File "ae430/engine.py", line 129, in _cycle_given_mdot
+    A_capture, _, _ = flow_area_from_mdot_total_M(mdot0, fs['Tt0'], fs['pt0'], M2, gamma_cold, cp_cold)
+ValueError: too many values to unpack
+
+case_id=37
+Traceback (most recent call last):
+  File "/home/bunta/AE430_codes/ae430_updated_codebase/ae430/run_sweep.py", line 245, in _worker_run_one
+    res, st, cons = evaluate_design(cfg, None)
+  File "ae430/engine.py", line 449, in evaluate_design
+    F0, r0, s0, c0 = eval_F(md0)
+  File "ae430/engine.py", line 444, in eval_F
+    res, st, cons = _cycle_given_mdot(cfg, mdot, logger)
+  File "ae430/engine.py", line 129, in _cycle_given_mdot
+    A_capture, _, _ = flow_area_from_mdot_total_M(mdot0, fs['Tt0'], fs['pt0'], M2, gamma_cold, cp_cold)
+ValueError: too many values to unpack
+
+case_id=38
+Traceback (most recent call last):
+  File "/home/bunta/AE430_codes/ae430_updated_codebase/ae430/run_sweep.py", line 245, in _worker_run_one
+    res, st, cons = evaluate_design(cfg, None)
+  File "ae430/engine.py", line 449, in evaluate_design
+    F0, r0, s0, c0 = eval_F(md0)
+  File "ae430/engine.py", line 444, in eval_F
+    res, st, cons = _cycle_given_mdot(cfg, mdot, logger)
+  File "ae430/engine.py", line 129, in _cycle_given_mdot
+    A_capture, _, _ = flow_area_from_mdot_total_M(mdot0, fs['Tt0'], fs['pt0'], M2, gamma_cold, cp_cold)
+ValueError: too many values to unpack
+
+case_id=39
+Traceback (most recent call last):
+  File "/home/bunta/AE430_codes/ae430_updated_codebase/ae430/run_sweep.py", line 245, in _worker_run_one
+    res, st, cons = evaluate_design(cfg, None)
+  File "ae430/engine.py", line 449, in evaluate_design
+    F0, r0, s0, c0 = eval_F(md0)
+  File "ae430/engine.py", line 444, in eval_F
+    res, st, cons = _cycle_given_mdot(cfg, mdot, logger)
+  File "ae430/engine.py", line 129, in _cycle_given_mdot
+    A_capture, _, _ = flow_area_from_mdot_total_M(mdot0, fs['Tt0'], fs['pt0'], M2, gamma_cold, cp_cold)
+ValueError: too many values to unpack
+
+case_id=75
+Traceback (most recent call last):
+  File "/home/bunta/AE430_codes/ae430_updated_codebase/ae430/run_sweep.py", line 245, in _worker_run_one
+    res, st, cons = evaluate_design(cfg, None)
+  File "ae430/engine.py", line 449, in evaluate_design
+    F0, r0, s0, c0 = eval_F(md0)
+  File "ae430/engine.py", line 444, in eval_F
+    res, st, cons = _cycle_given_mdot(cfg, mdot, logger)
+  File "ae430/engine.py", line 129, in _cycle_given_mdot
+    A_capture, _, _ = flow_area_from_mdot_total_M(mdot0, fs['Tt0'], fs['pt0'], M2, gamma_cold, cp_cold)
+ValueError: too many values to unpack
+
+case_id=76
+Traceback (most recent call last):
+  File "/home/bunta/AE430_codes/ae430_updated_codebase/ae430/run_sweep.py", line 245, in _worker_run_one
+    res, st, cons = evaluate_design(cfg, None)
+  File "ae430/engine.py", line 449, in evaluate_design
+    F0, r0, s0, c0 = eval_F(md0)
+  File "ae430/engine.py", line 444, in eval_F
+    res, st, cons = _cycle_given_mdot(cfg, mdot, logger)
+  File "ae430/engine.py", line 129, in _cycle_given_mdot
+    A_capture, _, _ = flow_area_from_mdot_total_M(mdot0, fs['Tt0'], fs['pt0'], M2, gamma_cold, cp_cold)
+ValueError: too many values to unpack
+
+case_id=77
+Traceback (most recent call last):
+  File "/home/bunta/AE430_codes/ae430_updated_codebase/ae430/run_sweep.py", line 245, in _worker_run_one
+    res, st, cons = evaluate_design(cfg, None)
+  File "ae430/engine.py", line 449, in evaluate_design
+    F0, r0, s0, c0 = eval_F(md0)
+  File "ae430/engine.py", line 444, in eval_F
+    res, st, cons = _cycle_given_mdot(cfg, mdot, logger)
+  File "ae430/engine.py", line 129, in _cycle_given_mdot
+    A_capture, _, _ = flow_area_from_mdot_total_M(mdot0, fs['Tt0'], fs['pt0'], M2, gamma_cold, cp_cold)
+ValueError: too many values to unpack
+
+case_id=78
+Traceback (most recent call last):
+  File "/home/bunta/AE430_codes/ae430_updated_codebase/ae430/run_sweep.py", line 245, in _worker_run_one
+    res, st, cons = evaluate_design(cfg, None)
+  File "ae430/engine.py", line 449, in evaluate_design
+    F0, r0, s0, c0 = eval_F(md0)
+  File "ae430/engine.py", line 444, in eval_F
+    res, st, cons = _cycle_given_mdot(cfg, mdot, logger)
+  File "ae430/engine.py", line 129, in _cycle_given_mdot
+    A_capture, _, _ = flow_area_from_mdot_total_M(mdot0, fs['Tt0'], fs['pt0'], M2, gamma_cold, cp_cold)
+ValueError: too many values to unpack
+
+case_id=79
+Traceback (most recent call last):
+  File "/home/bunta/AE430_codes/ae430_updated_codebase/ae430/run_sweep.py", line 245, in _worker_run_one
+    res, st, cons = evaluate_design(cfg, None)
+  File "ae430/engine.py", line 449, in evaluate_design
+    F0, r0, s0, c0 = eval_F(md0)
+  File "ae430/engine.py", line 444, in eval_F
+    res, st, cons = _cycle_given_mdot(cfg, mdot, logger)
+  File "ae430/engine.py", line 129, in _cycle_given_mdot
+    A_capture, _, _ = flow_area_from_mdot_total_M(mdot0, fs['Tt0'], fs['pt0'], M2, gamma_cold, cp_cold)
+ValueError: too many values to unpack
+
+case_id=105
+Traceback (most recent call last):
+  File "/home/bunta/AE430_codes/ae430_updated_codebase/ae430/run_sweep.py", line 245, in _worker_run_one
+    res, st, cons = evaluate_design(cfg, None)
+  File "ae430/engine.py", line 449, in evaluate_design
+    F0, r0, s0, c0 = eval_F(md0)
+  File "ae430/engine.py", line 444, in eval_F
+    res, st, cons = _cycle_given_mdot(cfg, mdot, logger)
+  File "ae430/engine.py", line 129, in _cycle_given_mdot
+    A_capture, _, _ = flow_area_from_mdot_total_M(mdot0, fs['Tt0'], fs['pt0'], M2, gamma_cold, cp_cold)
+ValueError: too many values to unpack
+
+case_id=106
+Traceback (most recent call last):
+  File "/home/bunta/AE430_codes/ae430_updated_codebase/ae430/run_sweep.py", line 245, in _worker_run_one
+    res, st, cons = evaluate_design(cfg, None)
+  File "ae430/engine.py", line 449, in evaluate_design
+    F0, r0, s0, c0 = eval_F(md0)
+  File "ae430/engine.py", line 444, in eval_F
+    res, st, cons = _cycle_given_mdot(cfg, mdot, logger)
+  File "ae430/engine.py", line 129, in _cycle_given_mdot
+    A_capture, _, _ = flow_area_from_mdot_total_M(mdot0, fs['Tt0'], fs['pt0'], M2, gamma_cold, cp_cold)
+ValueError: too many values to unpack
+
+case_id=107
+Traceback (most recent call last):
+  File "/home/bunta/AE430_codes/ae430_updated_codebase/ae430/run_sweep.py", line 245, in _worker_run_one
+    res, st, cons = evaluate_design(cfg, None)
+  File "ae430/engine.py", line 449, in evaluate_design
+    F0, r0, s0, c0 = eval_F(md0)
+  File "ae430/engine.py", line 444, in eval_F
+    res, st, cons = _cycle_given_mdot(cfg, mdot, logger)
+  File "ae430/engine.py", line 129, in _cycle_given_mdot
+    A_capture, _, _ = flow_area_from_mdot_total_M(mdot0, fs['Tt0'], fs['pt0'], M2, gamma_cold, cp_cold)
+ValueError: too many values to unpack
+
+case_id=108
+Traceback (most recent call last):
+  File "/home/bunta/AE430_codes/ae430_updated_codebase/ae430/run_sweep.py", line 245, in _worker_run_one
+    res, st, cons = evaluate_design(cfg, None)
+  File "ae430/engine.py", line 449, in evaluate_design
+    F0, r0, s0, c0 = eval_F(md0)
+  File "ae430/engine.py", line 444, in eval_F
+    res, st, cons = _cycle_given_mdot(cfg, mdot, logger)
+  File "ae430/engine.py", line 129, in _cycle_given_mdot
+    A_capture, _, _ = flow_area_from_mdot_total_M(mdot0, fs['Tt0'], fs['pt0'], M2, gamma_cold, cp_cold)
+ValueError: too many values to unpack
+
+case_id=109
+Traceback (most recent call last):
+  File "/home/bunta/AE430_codes/ae430_updated_codebase/ae430/run_sweep.py", line 245, in _worker_run_one
+    res, st, cons = evaluate_design(cfg, None)
+  File "ae430/engine.py", line 449, in evaluate_design
+    F0, r0, s0, c0 = eval_F(md0)
+  File "ae430/engine.py", line 444, in eval_F
+    res, st, cons = _cycle_given_mdot(cfg, mdot, logger)
+  File "ae430/engine.py", line 129, in _cycle_given_mdot
+    A_capture, _, _ = flow_area_from_mdot_total_M(mdot0, fs['Tt0'], fs['pt0'], M2, gamma_cold, cp_cold)
+ValueError: too many values to unpack
+
+case_id=140
+Traceback (most recent call last):
+  File "/home/bunta/AE430_codes/ae430_updated_codebase/ae430/run_sweep.py", line 245, in _worker_run_one
+    res, st, cons = evaluate_design(cfg, None)
+  File "ae430/engine.py", line 449, in evaluate_design
+    F0, r0, s0, c0 = eval_F(md0)
+  File "ae430/engine.py", line 444, in eval_F
+    res, st, cons = _cycle_given_mdot(cfg, mdot, logger)
+  File "ae430/engine.py", line 129, in _cycle_given_mdot
+    A_capture, _, _ = flow_area_from_mdot_total_M(mdot0, fs['Tt0'], fs['pt0'], M2, gamma_cold, cp_cold)
+ValueError: too many values to unpack
+
+case_id=141
+Traceback (most recent call last):
+  File "/home/bunta/AE430_codes/ae430_updated_codebase/ae430/run_sweep.py", line 245, in _worker_run_one
+    res, st, cons = evaluate_design(cfg, None)
+  File "ae430/engine.py", line 449, in evaluate_design
+    F0, r0, s0, c0 = eval_F(md0)
+  File "ae430/engine.py", line 444, in eval_F
+    res, st, cons = _cycle_given_mdot(cfg, mdot, logger)
+  File "ae430/engine.py", line 129, in _cycle_given_mdot
+    A_capture, _, _ = flow_area_from_mdot_total_M(mdot0, fs['Tt0'], fs['pt0'], M2, gamma_cold, cp_cold)
+ValueError: too many values to unpack
+
+case_id=142
+Traceback (most recent call last):
+  File "/home/bunta/AE430_codes/ae430_updated_codebase/ae430/run_sweep.py", line 245, in _worker_run_one
+    res, st, cons = evaluate_design(cfg, None)
+  File "ae430/engine.py", line 449, in evaluate_design
+    F0, r0, s0, c0 = eval_F(md0)
+  File "ae430/engine.py", line 444, in eval_F
+    res, st, cons = _cycle_given_mdot(cfg, mdot, logger)
+  File "ae430/engine.py", line 129, in _cycle_given_mdot
+    A_capture, _, _ = flow_area_from_mdot_total_M(mdot0, fs['Tt0'], fs['pt0'], M2, gamma_cold, cp_cold)
+ValueError: too many values to unpack
+
+case_id=143
+Traceback (most recent call last):
+  File "/home/bunta/AE430_codes/ae430_updated_codebase/ae430/run_sweep.py", line 245, in _worker_run_one
+    res, st, cons = evaluate_design(cfg, None)
+  File "ae430/engine.py", line 449, in evaluate_design
+    F0, r0, s0, c0 = eval_F(md0)
+  File "ae430/engine.py", line 444, in eval_F
+    res, st, cons = _cycle_given_mdot(cfg, mdot, logger)
+  File "ae430/engine.py", line 129, in _cycle_given_mdot
+    A_capture, _, _ = flow_area_from_mdot_total_M(mdot0, fs['Tt0'], fs['pt0'], M2, gamma_cold, cp_cold)
+ValueError: too many values to unpack
+
+case_id=144
+Traceback (most recent call last):
+  File "/home/bunta/AE430_codes/ae430_updated_codebase/ae430/run_sweep.py", line 245, in _worker_run_one
+    res, st, cons = evaluate_design(cfg, None)
+  File "ae430/engine.py", line 449, in evaluate_design
+    F0, r0, s0, c0 = eval_F(md0)
+  File "ae430/engine.py", line 444, in eval_F
+    res, st, cons = _cycle_given_mdot(cfg, mdot, logger)
+  File "ae430/engine.py", line 129, in _cycle_given_mdot
+    A_capture, _, _ = flow_area_from_mdot_total_M(mdot0, fs['Tt0'], fs['pt0'], M2, gamma_cold, cp_cold)
+ValueError: too many values to unpack
+
+case_id=185
+Traceback (most recent call last):
+  File "/home/bunta/AE430_codes/ae430_updated_codebase/ae430/run_sweep.py", line 245, in _worker_run_one
+    res, st, cons = evaluate_design(cfg, None)
+  File "ae430/engine.py", line 449, in evaluate_design
+    F0, r0, s0, c0 = eval_F(md0)
+  File "ae430/engine.py", line 444, in eval_F
+    res, st, cons = _cycle_given_mdot(cfg, mdot, logger)
+  File "ae430/engine.py", line 129, in _cycle_given_mdot
+    A_capture, _, _ = flow_area_from_mdot_total_M(mdot0, fs['Tt0'], fs['pt0'], M2, gamma_cold, cp_cold)
+ValueError: too many values to unpack
+
+case_id=186
+Traceback (most recent call last):
+  File "/home/bunta/AE430_codes/ae430_updated_codebase/ae430/run_sweep.py", line 245, in _worker_run_one
+    res, st, cons = evaluate_design(cfg, None)
+  File "ae430/engine.py", line 449, in evaluate_design
+    F0, r0, s0, c0 = eval_F(md0)
+  File "ae430/engine.py", line 444, in eval_F
+    res, st, cons = _cycle_given_mdot(cfg, mdot, logger)
+  File "ae430/engine.py", line 129, in _cycle_given_mdot
+    A_capture, _, _ = flow_area_from_mdot_total_M(mdot0, fs['Tt0'], fs['pt0'], M2, gamma_cold, cp_cold)
+ValueError: too many values to unpack
+
+case_id=187
+Traceback (most recent call last):
+  File "/home/bunta/AE430_codes/ae430_updated_codebase/ae430/run_sweep.py", line 245, in _worker_run_one
+    res, st, cons = evaluate_design(cfg, None)
+  File "ae430/engine.py", line 449, in evaluate_design
+    F0, r0, s0, c0 = eval_F(md0)
+  File "ae430/engine.py", line 444, in eval_F
+    res, st, cons = _cycle_given_mdot(cfg, mdot, logger)
+  File "ae430/engine.py", line 129, in _cycle_given_mdot
+    A_capture, _, _ = flow_area_from_mdot_total_M(mdot0, fs['Tt0'], fs['pt0'], M2, gamma_cold, cp_cold)
+ValueError: too many values to unpack
+
+case_id=188
+Traceback (most recent call last):
+  File "/home/bunta/AE430_codes/ae430_updated_codebase/ae430/run_sweep.py", line 245, in _worker_run_one
+    res, st, cons = evaluate_design(cfg, None)
+  File "ae430/engine.py", line 449, in evaluate_design
+    F0, r0, s0, c0 = eval_F(md0)
+  File "ae430/engine.py", line 444, in eval_F
+    res, st, cons = _cycle_given_mdot(cfg, mdot, logger)
+  File "ae430/engine.py", line 129, in _cycle_given_mdot
+    A_capture, _, _ = flow_area_from_mdot_total_M(mdot0, fs['Tt0'], fs['pt0'], M2, gamma_cold, cp_cold)
+ValueError: too many values to unpack
+
+case_id=189
+Traceback (most recent call last):
+  File "/home/bunta/AE430_codes/ae430_updated_codebase/ae430/run_sweep.py", line 245, in _worker_run_one
+    res, st, cons = evaluate_design(cfg, None)
+  File "ae430/engine.py", line 449, in evaluate_design
+    F0, r0, s0, c0 = eval_F(md0)
+  File "ae430/engine.py", line 444, in eval_F
+    res, st, cons = _cycle_given_mdot(cfg, mdot, logger)
+  File "ae430/engine.py", line 129, in _cycle_given_mdot
+    A_capture, _, _ = flow_area_from_mdot_total_M(mdot0, fs['Tt0'], fs['pt0'], M2, gamma_cold, cp_cold)
+ValueError: too many values to unpack
+
